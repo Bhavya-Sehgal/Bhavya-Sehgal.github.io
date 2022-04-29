@@ -1,0 +1,15 @@
+.about-section {
+  margin: -183px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  height: fit-content;
+  background-image: linear-gradient(
+    to bottom,
+    #dcdcdc,
+    #e5e5e5,
+    #ededed,
+    #f6f6f6,
+    #ffffff
+  );
+  margin-bottom: 20px;
+}
