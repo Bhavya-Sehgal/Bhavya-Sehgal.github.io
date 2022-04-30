@@ -14,7 +14,7 @@ function SideNavbar() {
     <>
       {!show && (
         <RiMenuFill
-          className="md:hidden fixed text-2xl z-40 m-10 right-0 text-white"
+          className="md:hidden fixed text-2xl z-40 m-10 right-0 text-[#6a6767]"
           onClick={() => setshow(true)}
         />
       )}

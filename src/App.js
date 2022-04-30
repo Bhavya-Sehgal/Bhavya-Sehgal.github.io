@@ -5,6 +5,7 @@ import Experience from "./Components/Experience/Experience";
 import Header from "./Components/Header/Header";
 import SideNavbar from "./Components/Navbar/SideNavbar";
 import Projects from "./Components/Projects/Projects";
+import ScrollArrow from "./Components/ScrollArrow/ScrollArrow";
 import Skills from "./Components/Skills/Skills";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Experience />
       <Projects />
       <Contact />
+      <ScrollArrow />
     </div>
   );
 }

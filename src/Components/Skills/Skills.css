@@ -3,32 +3,3 @@
   border-top-right-radius: 50%;
   transform: rotate(180deg);
 }
-
-/* <div className=" lg:flex items-center  lg:w-2/3 mx-auto px-52 lg:px-10 ">
-        <div className="py-2 lg:w-1/3 lg:pr-10 ">
-          <img
-            src={ProfileImg}
-            className="w-72 mx-auto lg:py-0 py-4 rounded-3xl"
-            alt=""
-          />
-        </div>
-        <div className="md:m-auto md:w-5/6 text-sm md:text-base lg:w-2/3 text-justify">
-          <FaQuoteLeft className="text-5xl headings" />
-          <p className="pt-6">
-            I love to create useful and attractive web applications, my passion
-            for design inspires me to always keep up with the current web trends
-            and motivates me to create beautiful websites.
-          </p>
-          <p className="pt-3">
-            I love to create useful and attractive web applications, my passion
-            for design inspires me to always keep up with the current web trends
-            and motivates me to create beautiful websites.
-          </p>
-          <p className="pt-3">
-            I love to create useful and attractive web applications, my passion
-            for design inspires me to always keep up with the current web trends
-            and motivates me to create beautiful websites.
-          </p>
-          <FaQuoteRight className="headings mt-5 text-5xl ml-auto" />
-        </div>
-      </div> */
