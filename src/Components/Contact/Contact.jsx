@@ -56,8 +56,13 @@ function Contact() {
       <div className="lg:px-10 mx:10 md:p-5 bg-gray-300">
         <div className="md:flex lg:px-5 lg:mx-5 py-14 px-2">
           <div className="md:w-1/2 md:px-5 md:py-5 md:mx-2 px-5">
-            <div className="tracking-widest text-left p-4 font-bold text-3xl">
-              GET IN TOUCH
+            <div className="flex">
+              <div>
+                <img src="../../Images/my_logo.png" alt="" className="" />
+              </div>
+              <div className="tracking-widest text-left p-4 font-bold text-3xl">
+                GET IN TOUCH
+              </div>
             </div>
             <div className="text-justify p-4">
               I love to create useful and attractive web applications, my
@@ -85,7 +90,7 @@ function Contact() {
                 <div className="px-2">
                   <IoLocationOutline className="text-2xl" />
                 </div>
-                <div className="">Janakpuri, 110058, New Delhi, India</div>
+                <div className="">Janakpuri, New Delhi, India-110058</div>
               </div>
               <div className="flex">
                 <div className="m-2 border-2 p-1 md:p-3 rounded-full hover:bg-gray-100 border-gray-200">

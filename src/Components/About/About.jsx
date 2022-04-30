@@ -53,7 +53,7 @@ function About() {
                 <div>
                   <IoLocationOutline className="text-xl mr-3 mb-3" />
                 </div>
-                <div>Janakpuri, New Delhi</div>
+                <div>Janakpuri, New Delhi-110058</div>
               </div>
               <div className="flex">
                 <div>

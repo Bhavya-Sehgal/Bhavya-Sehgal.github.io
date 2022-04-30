@@ -23,7 +23,7 @@ function Skills() {
                 <div className="text-xl md:text-2xl lg:text-3xl my-2 py-2">
                   Web Development
                 </div>
-                <div className="text-sm md:text-lg lg:text-xl text-justify lg:text-center xl:text-justify">
+                <div className="text-sm md:text-lg text-justify lg:text-center xl:text-justify">
                   HTML, Css, JavaScript, MongoDB, ReactJs, NodeJs, ExpressJS,
                   RestAPI Bootstrap, JQuery, TailwindCss, EJS, SQL, MaterialUI.
                 </div>
@@ -37,7 +37,7 @@ function Skills() {
                 <div className="text-xl md:text-2xl lg:text-3xl my-2 py-2">
                   Programming
                 </div>
-                <div className="text-sm md:text-lg lg:text-xl text-justify lg:text-center xl:text-justify">
+                <div className="text-sm md:text-lg text-justify lg:text-center xl:text-justify">
                   C++, C, Python, Data Structures and Algorithms, Object
                   Oriented Programming.
                 </div>
@@ -51,7 +51,7 @@ function Skills() {
                 <div className="text-xl md:text-2xl lg:text-3xl my-2 py-2">
                   Software/Ide Used
                 </div>
-                <div className="text-sm md:text-lg lg:text-xl text-justify lg:text-center xl:text-justify">
+                <div className="text-sm md:text-lg text-justify lg:text-center xl:text-justify">
                   Atom, VsCode, Sublime, Code Blocks, Git/GitHUB, Postman,
                   MS-Office, MS-Excel, MS-PowerPoint.
                 </div>
