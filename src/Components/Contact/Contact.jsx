@@ -29,7 +29,7 @@ function Contact() {
     // Example POST method implementation:
 
     // Default options are marked with *
-    const response = await fetch("http://localhost:5000/contact", {
+    const response = await fetch("https://bhavyasehgal.herokuapp.com/contact", {
       method: "POST", // *GET, POST, PUT, DELETE, etc.
       mode: "cors", // no-cors, *cors, same-origin
       cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
@@ -56,13 +56,8 @@ function Contact() {
       <div className="lg:px-10 mx:10 md:p-5 bg-gray-300">
         <div className="md:flex lg:px-5 lg:mx-5 py-14 px-2">
           <div className="md:w-1/2 md:px-5 md:py-5 md:mx-2 px-5">
-            <div className="flex">
-              <div>
-                <img src="../../Images/my_logo.png" alt="" className="" />
-              </div>
-              <div className="tracking-widest text-left p-4 font-bold text-3xl">
-                GET IN TOUCH
-              </div>
+            <div className="tracking-widest text-left p-4 font-bold text-3xl">
+              GET IN TOUCH
             </div>
             <div className="text-justify p-4">
               I love to create useful and attractive web applications, my
