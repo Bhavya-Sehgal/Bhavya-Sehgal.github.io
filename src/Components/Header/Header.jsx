@@ -23,7 +23,7 @@ function Header() {
           </div>
           <div className="hidden md:flex md:mx-4 mt-4 justify-center">
             <div className="tracking-widest text-xl">
-              <a href="https://drive.google.com/file/d/1BhhjeVqsSfGFLPQkoQQZaxXEZmt2ccdC/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/1a9pOM23GE1AzyXyBb7rXUHusUHJE2-X8/view?usp=sharing">
                 Resume
               </a>
             </div>
