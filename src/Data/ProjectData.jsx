@@ -11,7 +11,7 @@ const ProjectData = [
     Image: CookingDiscovery,
     Caption: "Social Media Application",
     Description: [
-      "It is a Social networking blog for showcasing recipes. In this I have added encrypted authentication of users and management of posted recipes by the users",
+      "It is a Social networking blog for showcasing recipes. In this, I have added encrypted authentication of users and management of posted recipes by the users.",
       "The UI is simple as well as elegant so that the useris not stuck anywhere and the process becomes self-explanatory.",
       "TechStack used: MongoDB, Express.js, React.js, Node.js, TailwindCss",
     ],

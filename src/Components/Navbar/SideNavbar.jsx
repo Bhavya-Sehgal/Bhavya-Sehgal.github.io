@@ -51,7 +51,7 @@ function SideNavbar() {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://drive.google.com/file/d/1a9pOM23GE1AzyXyBb7rXUHusUHJE2-X8/view?usp=sharing"
+                href="https://drive.google.com/file/d/1mTQsvx8Kqp1eQE-Uz99mur3Oc1VnZYL1/view"
               >
                 Resume
               </a>

@@ -140,9 +140,10 @@ function About() {
             Software Developer
           </div>
           <div className="text-sm">
-            I'm Bhavya Sehgal, pre-final year Engineering student and Open
-            Source enthusiast. I enjoy taking complex problems and turning them
-            into simple and beautiful interface designs.
+            I am a Computer Science Engineer from Guru Gobind Singh Indraprastha
+            University and Open Source enthusiast. I enjoy taking complex
+            problems and turning them into simple and beautiful interface
+            designs.
           </div>
           <div className="text-sm mt-2">
             I am reliable, hard-working with strong attention to detail, and
