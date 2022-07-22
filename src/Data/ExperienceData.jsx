@@ -30,7 +30,7 @@ const ExperienceData = [
     Company: "TechSoc MSIT",
     Position: "Web Developer",
     StartDate: "Jan 2021",
-    EndDate: "Present",
+    EndDate: "Dec 2021",
     Description: [
       "TechSoc is one of the Active technical society of my college MSIT. It's been of great advantage to work here with fellow skilled members to get an exposure to a large benefitting experience!",
       "The exchange of ideas that we get here are of great help by seniors and mentoring our juniors with our shared experience! And looking forward to organize many events though.",

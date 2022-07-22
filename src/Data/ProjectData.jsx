@@ -3,8 +3,20 @@ import BankingSystem from "../Images/Projects/ss-2.png";
 import BoxOffice from "../Images/Projects/ss-3.png";
 import TicTacToe from "../Images/Projects/ss-4.png";
 import Raunakh from "../Images/Projects/ss-5.png";
+import CookingDiscovery from "../Images/Projects/ss-6.png";
 
 const ProjectData = [
+  {
+    Title: "Cooking Discovery",
+    Image: CookingDiscovery,
+    Caption: "Social Media Application",
+    Description: [
+      "It is a Social networking blog for showcasing recipes. In this I have added encrypted authentication of users and management of posted recipes by the users",
+      "The UI is simple as well as elegant so that the useris not stuck anywhere and the process becomes self-explanatory.",
+      "TechStack used: MongoDB, Express.js, React.js, Node.js, TailwindCss",
+    ],
+    Link: "https://cookingdiscovery.herokuapp.com/",
+  },
   {
     Title: "Presence",
     Image: PresenceIMG,

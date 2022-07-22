@@ -90,7 +90,7 @@ function About() {
                 BTECH Computer Science, MSIT
               </div>
               <div className="text-sm font-normal">(2019-2023)</div>
-              <div className="text-md mb-2">9.481 CGPA</div>
+              <div className="text-md mb-2">9.635 CGPA</div>
               <div className="text-md font-semibold">
                 Snr. Secondary Education, HRMS
               </div>
